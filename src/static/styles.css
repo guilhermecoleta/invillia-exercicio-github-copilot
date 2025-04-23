@@ -108,6 +108,12 @@ section h3 {
 
 .activity-card ul li {
   margin-bottom: 5px;
+  font-style: italic; /* Styling for participant names */
+}
+
+.activity-card p.participant-info {
+  font-weight: bold;
+  color: #2e7d32; /* Highlight participant-related info */
 }
 
 .form-group {
